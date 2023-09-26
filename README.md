@@ -1,6 +1,6 @@
 # Flutter Simple e-commerce Home Screen UI
 
-This is a Covid-19 Tracker app developed with flutter. The App contains a simple home screen beautiful UI.
+This is a Ecommerce UI developed with flutter. The App contains a simple home screen beautiful UI.
 
 ## 📸 ScreenShots
 
